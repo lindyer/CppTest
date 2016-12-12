@@ -1,3 +1,6 @@
+//http://www.cnblogs.com/maybe2030/
+//http://www.cnblogs.com/maybe2030/category/697575.html
+
 #include <iostream>
 #include <cstdlib>     // Need random(), srandom()
 #include <ctime>      // Need time()
